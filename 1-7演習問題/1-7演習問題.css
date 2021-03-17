@@ -16,3 +16,14 @@
 	padding: 20px;
 	color: gray;
 }
+
+main{
+	width: 840px;
+	margin: 50px auto;
+}
+.box1{
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid gray;
+	color: gray;
+}
